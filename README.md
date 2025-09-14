@@ -36,7 +36,7 @@ Quer adicionar seus próprios prompts? Basta:
 
 ## Licença
 
-Este repositório é aberto sob a licença **MIT**.
+Este repositório é aberto sob a licença **Apache 2.0**.
 Sinta-se livre para usar, modificar e compartilhar os prompts — lembrando de dar os devidos créditos quando possível.
 
 ---
