@@ -1,3 +1,9 @@
+# Prompt Aplicado
+Chat GPT Compartilhado > [Guia Deployment e Patterns](https://chatgpt.com/share/68c74a2c-11f4-8013-8ad4-75709b246fbd)
+
+# Prompt
+## Copie e cole o texto abaixo em uma IA Generativa
+
 Quero um guia **prático e comparativo** sobre *deployment patterns*, cobrindo estes 8 itens:
 
 1. **Canary Release** — liberar para uma fração dos usuários primeiro
